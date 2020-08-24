@@ -18,7 +18,6 @@ const App = () => {
         <View
           style={{
             flex: 1,
-            height: 300,
             flexWrap: "wrap",
             flexDirection: "row",
             justifyContent: "center",
